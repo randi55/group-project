@@ -1,0 +1,7 @@
+ .nav-link {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+}
+.nav-link:hover {
+    background-color: #f87171;
+}
